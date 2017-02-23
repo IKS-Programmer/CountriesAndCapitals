@@ -1,0 +1,18 @@
+Aufgabe:
+
+Ein Konsolen-Programm liest beim Start eine fachlich vorgegebene Land-Hauptstadt
+-Liste ein. 
+
+Nacheinander wird 100 Mal für ein zufällig gewähltes Land nach 
+der Hauptstadt gefragt. 
+
+Unter 10 möglichen Antworten wählt der User über die Tasten a bis j eine Antwort aus. 
+
+Neun Antworten sind zufällig gewählt und die Position der richtigen ist auch zufällig. 
+
+Unter den 100 Fragen darf kein Land doppelt vorkommen. 
+
+Nach jeder Eingabe wird das richtige Ergebnisse und eine Bewertung (richtig/falsch) 
+angezeigt. 
+
+Nach der letzten Frage wird die Anzahl der richtigen Antworten ausgegeben.
